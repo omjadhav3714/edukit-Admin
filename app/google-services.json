@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "513484427560",
+    "project_id": "edukit-mobileapp",
+    "storage_bucket": "edukit-mobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513484427560:android:4fa0cfd27b48772a3dc01d",
+        "android_client_info": {
+          "package_name": "com.example.edukit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513484427560-e64apq9998kbabd23vssa73bh425t1ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZEP3MOKGBbBSbYsQcBxKzHUK1WixfRJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513484427560-e64apq9998kbabd23vssa73bh425t1ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513484427560:android:080ead15e8aade2a3dc01d",
+        "android_client_info": {
+          "package_name": "com.example.edukit_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513484427560-e64apq9998kbabd23vssa73bh425t1ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZEP3MOKGBbBSbYsQcBxKzHUK1WixfRJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513484427560-e64apq9998kbabd23vssa73bh425t1ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
